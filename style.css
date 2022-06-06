@@ -15,7 +15,7 @@ body {
     position: fixed;
     width: 100vw;
     height: 100vh;
-    background-image:url('https://1.bp.blogspot.com/-G7Ln211s46Q/WQyeCEQ6AmI/AAAAAAAAAJQ/NdsWuHGA3dQLFv0ZK4Y6byF1LMRx9Be0QCLcB/s1600/ma.gif');
+    background-image:url("https://cdn.pixabay.com/photo/2018/02/15/16/22/puzzle-3155663_960_720.png");
     z-index: 100;
     display: flex;
     justify-content: center;
